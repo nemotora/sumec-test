@@ -1,0 +1,9 @@
+[submodule "Sumec-MiniSumo-PCB"]
+	path = Sumec-MiniSumo-PCB
+	url = https://github.com/bismarx-v1/Sumec-MiniSumo-PCB
+[submodule "Sumec-MiniSumo-MECH"]
+	path = Sumec-MiniSumo-MECH
+	url = https://github.com/CatMan167/Sumec-MiniSumo-MECH
+[submodule "Sumec-MiniSumo-SW"]
+	path = Sumec-MiniSumo-SW
+	url = https://github.com/NataniSi/Sumec-MiniSumo-SW
