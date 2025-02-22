@@ -11,5 +11,5 @@ Pokud aktualizujete submoduly a chcete tyto změny uložit i v hlavním repozit�
 ```
 git add .
 git commit -m "Aktualizace všech submodulů na nejnovější verzi"
-git push origin hlavni-vetev
+git push origin main
 ```
