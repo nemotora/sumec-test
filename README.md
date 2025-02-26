@@ -4,6 +4,14 @@ Pro přidání submodulu je potřeba spustit
 git submodule add https://github.com/NataniSi/Sumec-MiniSumo-SW
 ```
 
+Následně je nutné vše pushnout.
+
+```
+git add .
+git commit -m "added submodules"
+git push origin
+```
+
 Projde každý submodul v hlavním repozitáři a uvnitř něj spustí zadaný příkaz
 
 ```
